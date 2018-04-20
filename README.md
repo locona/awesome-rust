@@ -16,3 +16,26 @@ A repository selected from  https://github.com/rust-unofficial/awesome-rust/blob
 - https://github.com/jwilm/alacritty
 - https://github.com/withoutboats/notty
 - https://github.com/servo/servo
+
+## Cryptocurrencies
+- https://github.com/paritytech/parity
+- https://github.com/paritytech/parity-bitcoin
+
+## DB
+- https://github.com/pingcap/tikv
+- https://github.com/seppo0010/rsedis
+
+## Game
+- https://github.com/cristicbz/rust-doom
+
+## Operating systems
+- https://github.com/redox-os/redox
+- https://github.com/helena-project/tock
+
+## Tools
+- https://github.com/Aaronepower/tokei
+- https://github.com/jhspetersson/fselect
+- https://github.com/lotabout/skim
+- https://github.com/mmstick/parallel
+- https://github.com/ogham/exa
+
