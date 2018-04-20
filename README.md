@@ -38,4 +38,7 @@ A repository selected from  https://github.com/rust-unofficial/awesome-rust/blob
 - https://github.com/lotabout/skim
 - https://github.com/mmstick/parallel
 - https://github.com/ogham/exa
-
+- https://github.com/redox-os/ion
+- https://github.com/sharkdp/fd
+- https://github.com/uutils/coreutils
+- https://github.com/mattgreen/watchexec
