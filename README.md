@@ -69,3 +69,86 @@ A repository selected from  https://github.com/rust-unofficial/awesome-rust/blob
 - https://github.com/rust-lang-nursery/rls
 - https://github.com/vitiral/artifact
 - https://github.com/BurntSushi/ripgrep
+
+## Profiling
+- https://github.com/TyOverby/flame
+
+## static site gen
+- https://github.com/Keats/gutenberg
+
+## HTTP Server
+- https://github.com/hyperium/hyper
+- https://github.com/iron/iron
+- https://github.com/nickel-org/nickel.rs/
+- https://github.com/SergioBenitez/Rocket
+- https://github.com/actix/actix-web
+
+## HTTP Client
+- https://github.com/hyperium/hyper
+
+## Text Processing
+- https://github.com/rust-lang/regex
+
+## Scripting
+- https://github.com/gluon-lang/gluon
+
+## Parser
+- https://github.com/pest-parser/pest
+- https://github.com/lalrpop/lalrpop
+- https://github.com/Geal/nom
+
+## ML
+- https://github.com/autumnai/leaf
+- https://github.com/tensorflow/rust
+
+## Log
+- https://github.com/rust-lang-nursery/log
+- https://github.com/slog-rs/slog
+
+## Image Processing
+- https://github.com/PistonDevelopers/image
+
+## Graphics
+### OpenGL
+- https://github.com/glium/glium
+- https://github.com/tomaka/glutin
+
+## ORM
+- https://github.com/diesel-rs/diesel
+
+## Compression
+- https://github.com/dropbox/rust-brotli
+- https://github.com/alexcrichton/bzip2-rs
+- https://github.com/carols10cents/zopfli
+- https://github.com/alexcrichton/flate2-rs
+- https://github.com/JeffBelgum/rust-snappy
+- https://github.com/alexcrichton/tar-rs
+- https://github.com/mvdnes/zip-rs
+
+## Cloud
+- https://github.com/rusoto/rusoto
+
+## Cli
+### Argument parsing
+- https://github.com/kbknapp/clap-rs
+- https://github.com/docopt/docopt.rs
+- https://github.com/TeXitoi/structopt
+
+
+### Progress
+- https://github.com/FGRibreau/spinners
+- https://github.com/a8m/pb
+- https://github.com/mitsuhiko/indicatif
+
+## Concurrency
+- https://github.com/crossbeam-rs/crossbeam
+- https://github.com/rayon-rs/rayon
+
+## Authenticate
+- https://github.com/Keats/jsonwebtoken
+- https://github.com/hngnaig/rust-accountkit
+
+## Asynchronous
+- https://github.com/rust-lang-nursery/futures-rs
+- https://github.com/zonyitoo/coio-rs
+- https://github.com/carllerche/mio
